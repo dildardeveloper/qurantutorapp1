@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "823637174174",
+    "project_id": "admin-de42a",
+    "storage_bucket": "admin-de42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823637174174:android:ac1f9306a31dc4903ed88f",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823637174174-al5iigis5cfela06nf3s9jebio7ic5vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsnrSp5mVFXnz-qGupkAFaQYSsWjV_co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823637174174-al5iigis5cfela06nf3s9jebio7ic5vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823637174174:android:c2d536c100ddd4f93ed88f",
+        "android_client_info": {
+          "package_name": "com.example.qurantutorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823637174174-al5iigis5cfela06nf3s9jebio7ic5vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsnrSp5mVFXnz-qGupkAFaQYSsWjV_co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823637174174-al5iigis5cfela06nf3s9jebio7ic5vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
